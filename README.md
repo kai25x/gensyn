@@ -35,7 +35,7 @@ Remove the old project and clone the fresh version:
 ```bash
 cd $HOME && \
 rm -rf rl-swarm && \
-git clone https://github.com/sudo-kai/gensyn.git
+git clone https://github.com/kai25x/gensyn.git
 ```
 
 ### 3. Restore `swarm.pem`
